@@ -9,6 +9,8 @@
 
 The project is a PWA and was developed using Typescript, ReactJS, Redux and Redux Thunk consuming [OpenWeather](https://openweathermap.org/).
 
+Feel free to use it and install on your phone.
+
 [x] PWA
 [x] Typescript
 [x] ReactJS
