@@ -2,13 +2,14 @@
 
 <h1 align="center">
     <img src="https://github.com/LucasReinaldo/weather-redux-app/blob/master/src/assets/weather-redux.gif" width="680" />
-    https://lucasreinaldo-weatherapp.netlify.app/
+    https://lucasreinaldo-weather-pwa.netlify.app
 </h1>
 
 ## 🚀 Technologies
 
-The project was developed using Typescript, ReactJS, Redux and Redux Thunk consuming [OpenWeather](https://openweathermap.org/).
+The project is a PWA and was developed using Typescript, ReactJS, Redux and Redux Thunk consuming [OpenWeather](https://openweathermap.org/).
 
+[x] PWA
 [x] Typescript
 [x] ReactJS
 [x] Styled Components
